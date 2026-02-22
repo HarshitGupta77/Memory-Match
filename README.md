@@ -6,7 +6,10 @@ A modern memory card matching game built using React, featuring multiple difficu
 
 ## Features
 
-- **Multiple difficulty levels:** Easy, Medium and Hard which increases the grid size
+- **Multiple difficulty levels:** which affects the grid size
+    - Easy (4x4)
+    - Medium (5x4)
+    - Hard (6x5)
 - **Timer and Highscore:** Separate tracking per difficulty of 
     - Best Time  
     - Best Moves  
