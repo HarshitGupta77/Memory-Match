@@ -6,30 +6,19 @@ A modern memory card matching game built using React, featuring multiple difficu
 
 ## Features
 
-**Three difficulty levels**
-- Easy (4x4)  
-- Medium (4x5)  
-- Hard (5x6)  
-
-**Timer and Highscore** tracking per difficulty  
-- Best Time  
-- Best Moves  
-- Best Overall Game  
-
-**Sound effects**  
-- Card flip sound  
-- Match sound  
-- Victory sound  
-
-**Smooth animations**  
-- Card flip animations  
-- Win overlay animations  
+- **Multiple difficulty levels:** Easy, Medium and Hard which increases the grid size
+- **Timer and Highscore:** Separate tracking per difficulty of 
+    - Best Time  
+    - Best Moves  
+    - Best Overall Game  
+- **Sound Effects:** includes sounds for card flips, matches and on victory.
+- **Smooth animations:** including 3D card flips and win overlay animations
 
 ---
 
-## How to Play
+## Gameplay
 
-- *Click cards* to reveal fruits underneath  
-- Match two identical fruits to score a match  
+- **Click cards** to reveal fruits underneath  
+- **Match two identical** fruits to score a match  
 - Game ends when all pairs are matched  
 - Highscores are tracked separately for each difficulty  
